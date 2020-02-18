@@ -1,2 +1,1 @@
-# cassandre-tech.github.io
-Cassandre tech website
+# Cassandre.tech website
