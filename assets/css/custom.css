@@ -1,0 +1,18 @@
+html {
+	font-family: 'Odibee Sans', cursive;
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background-image: url("/assets/images/bg-pattern.png");
+	background-repeat: repeat;
+}
+
+.social a {
+	color: #9a9a9a
+}
+
+.social a:hover, .social a:active, .social a:focus {
+	color: #337ab7
+}
