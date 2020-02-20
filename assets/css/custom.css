@@ -1,12 +1,22 @@
 html {
-	font-family: 'Odibee Sans', cursive;
+	min-height: 100%;
 	height: 100%;
-	margin: 0;
 }
 
 body {
 	background-image: url("/assets/images/bg-pattern.png");
 	background-repeat: repeat;
+	font-family: 'Nova Flat', cursive;
+	border-top: 5px solid #337ab7;
+	overflow: hidden;
+}
+
+h1 {
+	color: #214d85;
+}
+
+h2 {
+	color: #858686;
 }
 
 .social a {
